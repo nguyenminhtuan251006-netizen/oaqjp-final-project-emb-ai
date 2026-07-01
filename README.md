@@ -1,10 +1,12 @@
-# Emotion Detector
+# Final Project - Emotion Detector
 
-This project is an Emotion Detection application using Watson NLP.
+This is the Final Project for the Emotion Detector application.
 
 ## Project Details
 
-The application analyzes input text and detects the following emotions:
+This project uses Watson NLP to analyze text and detect emotions.
+
+The application detects the following emotions:
 
 - Anger
 - Disgust
